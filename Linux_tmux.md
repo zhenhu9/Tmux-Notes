@@ -349,3 +349,6 @@ Creating new key bindings:
 
 ### SEE ALSO
      pty(4)
+
+### AUTHORS
+     Nicholas Marriott <nicholas.marriott@gmail.com>
